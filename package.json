@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@fortawesome/react-fontawesome": "^0.2.2"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/react": "^16.0.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "jsdom": "^25.0.1",
+    "vitest": "^2.1.3"
+  }
+}
